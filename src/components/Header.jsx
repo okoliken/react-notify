@@ -8,7 +8,7 @@ export default function Header() {
         </span>
       </div>
       <p className="text-[#5e6778] text-[16px] cursor-pointer hover:underline hover:underline-[#5e6778]">
-        mark all as read
+        Mark all as read
       </p>
     </div>
   );
